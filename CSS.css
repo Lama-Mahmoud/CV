@@ -1,0 +1,15 @@
+hr{
+	  border: 1px solid black;
+}
+table {
+	border-collapse: collapse;
+	text-align: center;
+}
+table, td, th {
+  border: 2px solid;
+}
+
+h3 a{
+	color:grey;
+}
+
