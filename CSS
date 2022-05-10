@@ -1,0 +1,12 @@
+h2{
+	text-decoration-line: underline;
+}
+
+h3{
+	color: grey;
+	text-align: center;
+}
+
+table{
+	border-collapse: collapse;
+}
