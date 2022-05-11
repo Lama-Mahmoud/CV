@@ -21,3 +21,8 @@ body{
 .indent{
  text-indent: 30px;
 }
+
+h2{
+  background-color: #d1edf2;
+  color: black;
+}
